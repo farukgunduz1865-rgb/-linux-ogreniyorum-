@@ -1,1 +1,6 @@
-""."# -linux-ogreniyorum-
+
+
+
+
+
+# -linux-ogreniyorum-
