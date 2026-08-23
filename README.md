@@ -1,6 +1,2 @@
-#-ig geri-alma-
-
-
-
-
+    linux-terminal
 # -linux-ogreniyorum-
